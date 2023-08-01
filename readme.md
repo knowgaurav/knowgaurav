@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Gaurav Singh! <img src="https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" width="50" height="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" height="200">
-<p><em>Associate Data Engineer at <a href="http://www.shell.com">Shell</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Associate Data Engineer at <a href="http://www.shell.com">Shell</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
