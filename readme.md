@@ -8,7 +8,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Gaurav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/knowgaurav/)](https://linkedin.com/in/knowgaurav/)
 ![GitHub followers](https://img.shields.io/github/followers/knowgaurav?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=knowgaurav&color=blue)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/knowgaurav/ama)
 
 
 👇 Hit in your console or terminal to connect with me.
@@ -22,7 +22,7 @@ npx knowgaurav
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const gaurav = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "Java", "Javascript", "Typescript", "Python"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "F1", "Harry Potter"],
@@ -48,6 +48,6 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
 ---
