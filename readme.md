@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Gaurav Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif" width="220">
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/knowgaurav01?label=Follow)
@@ -11,11 +11,10 @@
 
 👇 Hit in your console or terminal to connect with me.
 
-<div style="width: 70%;">
+
 ```bash
 npx knowgaurav
 ```
-</div>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
