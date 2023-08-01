@@ -1,5 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Gaurav Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/B4OVvY3CVNN0Q/giphy.gif" width="220">
+<p><em>Associate Data Engineer at <a href="http://www.shell.com">Shell</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/knowgaurav01?label=Follow)
