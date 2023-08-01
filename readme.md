@@ -22,7 +22,7 @@ npx knowgaurav
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const gaurav = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "Java", "Javascript", "Typescript", "Python"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "F1", "Harry Potter"],
