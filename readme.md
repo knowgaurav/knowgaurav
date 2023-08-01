@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Gaurav Singh! <img src="https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" width="50" height="40"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Gaurav Singh! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlhNXM4NTc3ZjNvcXl4cHp5amVrNXl1dHFvc2k3ZXFoMmx6Mmh5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUPGcxu9qCIkyCl2z6/giphy.gif" width="50" height="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" height="200">
 <p><em>Associate Data Engineer at <a href="http://www.shell.com">Shell</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
