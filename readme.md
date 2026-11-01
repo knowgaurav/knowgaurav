@@ -68,7 +68,7 @@ const gaurav = {
         "RAG Pipelines", "LLM Tools & Providers"
     ],
 
-    myPhilosophy: "How You Do Anything Is How You Do Everything."
+    myPhilosophy: "How you do anything is how you do everything."
 };
 ```
 
